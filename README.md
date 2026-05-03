@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @laurabds
-- 👀 I’m interested in Web Development, on first I was focusing on Front End, but I discovered BackEnd, APIs and I'm loving it.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Ruby On Rails, ReactJS and NodeJS.
-- 💞️ I’m looking to collaborate on Web Development.
-- 📫 You can reach me by e-mail: laura.bdsanctis@gmail.com
+### 👋 Hi, I'm Laura
+
+Full-stack developer & AI engineer @ **LBS Data Solutions**.
+
+- 🛠️ Ruby on Rails · React · TypeScript · PostgreSQL · Python
+- 🤖 LLM integration · prompt engineering · workflow automation
+- 🔍 Strong focus on testing, code review and clean architecture
+- 📫 [laura.bdsanctis@gmail.com](mailto:laura.bdsanctis@gmail.com)
 
 <!---
 laurabds/laurabds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
